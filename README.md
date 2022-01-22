@@ -15,7 +15,7 @@ Koo has been created by Bombinate Technologies Private Limited which is a Bangal
 </tr>
 </table>
 
-## Groww Clone
+## koo Clone
 
 ### Sign up Page
 
