@@ -1,6 +1,4 @@
 # koo
-# growproject
-# [Groww]
 
 <table>
 <tr>
