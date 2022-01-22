@@ -23,13 +23,6 @@ Koo has been created by Bombinate Technologies Private Limited which is a Bangal
 ### Home Page
 
 
-### Product Page
-
-### Product Description Page
-
-### Checkout Page
-
-### Payment Page
 
 
 
