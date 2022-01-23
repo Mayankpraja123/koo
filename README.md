@@ -29,6 +29,12 @@ User enter their email or mobile number for sign Up
 Here user can post their comments and also add some emojis.
 ![Post_request](https://user-images.githubusercontent.com/87421885/150676484-814bb41c-d44b-4577-a23a-e3623c45040a.png)
 
+### People Section
+in this section you can see the list of people to whom we can follow.
+![follow](https://user-images.githubusercontent.com/87421885/150676855-821e382c-b310-4e93-8f0d-827a6e4283dc.png)
+
+
+
 ### Trending Vedio
 You can see the real-time data of that section which you want to explore.
 ![Trending_Vedio](https://user-images.githubusercontent.com/87421885/150676014-aa05dd50-d48a-4fc1-8604-11634bcefca8.png)
