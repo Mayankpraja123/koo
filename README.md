@@ -42,7 +42,7 @@ To run, follow these steps:
 
 ## Built with 
 
-- HTML
+- React
 - CSS
 - Advance JavaScript (ES6)
 - node js
