@@ -25,11 +25,11 @@ This is our home page from where the user can login to out Koo app.
 User enter their email or mobile number for sign Up 
 ![Sign_in](https://user-images.githubusercontent.com/87421885/150676151-66ac8cab-c270-4f18-a615-c4750f9cea4e.png)
 
-###Post your comments
+### Post your comments
 Here user can post their comments and also add some emojis.
 ![Post_request](https://user-images.githubusercontent.com/87421885/150676484-814bb41c-d44b-4577-a23a-e3623c45040a.png)
 
-###Trending Vedio
+### Trending Vedio
 You can see the real-time data of that section which you want to explore.
 ![Trending_Vedio](https://user-images.githubusercontent.com/87421885/150676014-aa05dd50-d48a-4fc1-8604-11634bcefca8.png)
 
@@ -37,7 +37,7 @@ You can see the real-time data of that section which you want to explore.
 If user have any query then he can contact us from here.
 ![Contact_us](https://user-images.githubusercontent.com/87421885/150675989-fab4a035-5713-4922-8aec-db58f245ec20.png)
 
-###Faq Page
+### Faq Page
 Here user can see the  freqently asked question about the koo app
 ![Faq](https://user-images.githubusercontent.com/87421885/150676224-92526542-682e-49a8-882d-1f79143965d1.png)
 
